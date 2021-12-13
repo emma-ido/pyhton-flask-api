@@ -23,16 +23,9 @@ This API method accepts a code given by number and returns a JSON object specify
 
  
 
-**Notes:**
-
-* You may use any programming language for this. Python seems like a good option however.
-* Zip the project folder and submit on the appropriate slot on Canvas.
-* The root of the project folder should contain a README with instructions on how to run your dockerized application. Your instructions can assume we already have docker installed.
-* The root of the project folder should contain a folder called tests with screenshots showing calls to your APIs as well as the results returned. You could make the calls on the command-line using curl or using a tool like Postman or even the browser. The screenshot must show clearly what the request was and the response.
-
 </br>
 
-# Instructions
+# Set up instructions
   **Assuming you already have Docker installed**
 
 i.   Open the command line in the path of this project's folder
